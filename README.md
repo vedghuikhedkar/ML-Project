@@ -99,3 +99,10 @@ From the classification report generated in the notebook:
 accuracy                           0.22
 macro avg       precision 0.39  recall 0.09  f1-score 0.07
 weighted avg    precision 0.39  recall 0.22  f1-score 0.14
+| Attribute          | Actual Value | Predicted Value | Correct |
+| ------------------ | ------------ | --------------- | ------- |
+| Top Category ID    | 3            | 3               | ✅       |
+| Bottom Category ID | 212          | 212             | ✅       |
+| Primary Color ID   | 17           | 16              | ❌       |
+| Secondary Color ID | 16           | 16              | ✅       |
+
