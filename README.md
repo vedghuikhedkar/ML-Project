@@ -106,3 +106,22 @@ weighted avg    precision 0.39  recall 0.22  f1-score 0.14
 | Primary Color ID   | 17           | 16              | ❌       |
 | Secondary Color ID | 16           | 16              | ✅       |
 
+
+# 📝 Notes
+
+- The dataset is **not included** in this repository due to NDA restrictions.
+- Results are dependent on validation splits and class distributions.
+- This project focuses on **academic experimentation** rather than production deployment.
+- Model performance can be improved further using:
+  - Pre-trained embeddings (e.g., word or sentence embeddings)
+  - Image feature extraction using CNNs
+  - Multi-task learning architectures to jointly predict all attributes
+
+---
+
+# 👤 Author
+
+**Ved Ghuikhedkar**  
+Machine Learning  
+Spring 2024
+
